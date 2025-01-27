@@ -2,6 +2,7 @@ from modelos.avaliacao import Avaliacao
 
 
 class Restaurante:
+    
     restaurantes = []
 
     def __init__(self, nome, categoria):
